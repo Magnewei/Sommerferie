@@ -22,7 +22,7 @@
   2. [React hooks er basically måden man håndterer data med react. ](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
   3. React projekter
-    - [25 Projekter. Vælg nogle.](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
+    -[25 Projekter. Vælg nogle.](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
 
 
 ### Byg et website sammmen.
